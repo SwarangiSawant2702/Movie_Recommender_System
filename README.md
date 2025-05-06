@@ -80,5 +80,5 @@ streamlit run App.py
 
 👩‍💻 Author
 Swarangi Sawant
-GitHub: @SwarangiSawant2702 give a read me file for all this
+GitHub: @SwarangiSawant2702 
 
