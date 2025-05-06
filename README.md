@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/7414dbca-acaf-4af9-8900-4cb41eb1b489
 # 🎬 Movie Recommender System
 
 ## This project is a **content-based movie recommender system** built with Python and Streamlit. It recommends movies similar to a user's selected movie using cosine similarity on movie metadata.
